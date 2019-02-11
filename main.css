@@ -1,0 +1,6 @@
+
+#graph-goes-here .x.axis text {
+    text-anchor: end !important;
+    transform: rotate(-60deg);
+    /*display:none;*/ 
+}
